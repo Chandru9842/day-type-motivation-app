@@ -1,6 +1,15 @@
 # Day Type Motivation App
 
-A simple Node.js application built with Express.js and EJS that dynamically displays messages based on whether the current day is a weekday or a weekend.
+A simple Node.js application built using Express.js and EJS that dynamically displays motivational messages based on whether the current day is a weekday or a weekend.
+
+---
+
+## 🌐 Demo (UI Preview)
+GitHub Pages Preview:
+https://chandru9842.github.io/day-type-motivation-app/
+
+> ⚠️ Note: GitHub Pages supports only static content.  
+> The full backend logic (Express + EJS) runs locally.
 
 ---
 
